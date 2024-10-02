@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1727885922 source:c:\users\ruben\documents\semestre vi\unidad 1\estructura de datos avanzados\proyectos\lzwarchivostxt\lzwcontxt\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<unordered_map>
+	<string>
+
